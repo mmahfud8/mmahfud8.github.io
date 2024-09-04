@@ -1,10 +1,11 @@
 /* hero background image */
 .bgimage {
-    height:55vh;
+    height:90vh;
     background: url("images/wp5633980.jpg");
-    background-size:cover;
+    background-size: cover;
     position:relative;
     margin-bottom:-4rem;
+    margin: auto;
     
 }
 /* text css above hero image*/

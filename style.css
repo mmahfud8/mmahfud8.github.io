@@ -1,6 +1,6 @@
 /* hero background image */
 .bgimage {
-    height:90vh;
+    height:100vh;
     background: url("images/wp5633980.jpg");
     background-size: cover;
     position:relative;

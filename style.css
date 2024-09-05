@@ -4,7 +4,7 @@
     background: url("images/wp5633980.jpg");
     background-size: cover;
     position:relative;
-    margin-bottom:-4rem;
+    margin-bottom:-8rem;
     margin: auto;
     
 }
@@ -53,7 +53,11 @@ footer {
     padding: 20px;
 }
 /* spacing on all sections */
-#about, #services, #portfolio, #contact {
+#about {
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
+#services, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }

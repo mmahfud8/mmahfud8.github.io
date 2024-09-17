@@ -27,11 +27,14 @@
 .servicesText.card {
     height: 280px;
     cursor: pointer;
-  }
-.servicesIcon {
-    font-size: 36px;
-    text-align: center;
-    width: 100%;
+}
+.servicesIcon img {
+    width: 15%;
+    position: relative;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
 }
 .card-title {
     text-align: center;

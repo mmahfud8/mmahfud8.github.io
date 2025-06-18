@@ -25,7 +25,7 @@
 }
 /* services section css */
 .servicesText.card {
-    height: 280px;
+    height: 290px;
     cursor: pointer;
 }
 .servicesIcon img {
@@ -59,7 +59,7 @@ footer {
 /* spacing on all sections */
 #about {
     margin-top: 1rem;
-    padding:2rem;
+    padding-top: 1rem;
 }
 #services, #portfolio, #contact {
     margin-top: 4rem;

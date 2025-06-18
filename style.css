@@ -93,14 +93,13 @@ footer {
     opacity: 0.7;
 }
 .footer-icon {
-    text-align: center;
+    margin-top: 10%;
+    margin-left: 30%;
 }
 
 .icon_contact img {
     position: relative;
     width: 5%;
-    margin-top: 10%;
-    margin-left: 30%;
 }
 
 p {

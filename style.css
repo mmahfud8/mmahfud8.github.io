@@ -59,7 +59,7 @@ footer {
 /* spacing on all sections */
 #about {
     margin-top: 1rem;
-    padding-top: 1rem;
+    padding:2rem;
 }
 #services, #portfolio, #contact {
     margin-top: 4rem;

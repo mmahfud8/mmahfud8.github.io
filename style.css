@@ -58,8 +58,8 @@ footer {
 }
 /* spacing on all sections */
 #about {
-    margin-top: 2rem;
-    padding-top: 2rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
 }
 #services, #portfolio, #contact {
     margin-top: 4rem;

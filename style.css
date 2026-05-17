@@ -2,6 +2,8 @@
 .bgimage {
     height:100vh;
     background: url("images/wp5633980.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
     background-size: cover;
     position:relative;
     margin-bottom:-8rem;
